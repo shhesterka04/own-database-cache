@@ -1,0 +1,11 @@
+{
+    "path": 
+    {
+      "databaseFilePath": "data/db/",
+      "cacheFilePath": "data/cache/",
+      "fileName": "file.csv",
+      "testDatabaseFilePath": "../../data/db/",
+      "testCacheFilePath": "../../data/cache/"
+    },
+    "expirationTimeCache" : 5
+}
